@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AbdulsPortfolio/static/css/main.1053f1bb.css",
-    "main.js": "/AbdulsPortfolio/static/js/main.3e8c3d57.js",
+    "main.js": "/AbdulsPortfolio/static/js/main.ece121a3.js",
     "static/media/portfolio.gif": "/AbdulsPortfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/AbdulsPortfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/AbdulsPortfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -26,12 +26,14 @@
     "static/media/fa-brands-400.woff": "/AbdulsPortfolio/static/media/fa-brands-400.dc957891d535aa198135.woff",
     "static/media/codeInLogo.png": "/AbdulsPortfolio/static/media/codeInLogo.be1b6b9bacd5f2fb1c7e.png",
     "static/media/stanford_logo.png": "/AbdulsPortfolio/static/media/stanford_logo.de5f29dece094f7bec60.png",
+    "static/media/brocku2-modified.png": "/AbdulsPortfolio/static/media/brocku2-modified.c371491f907dcffa24f7.png",
     "static/media/animated_logo.svg": "/AbdulsPortfolio/static/media/animated_logo.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/AbdulsPortfolio/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/AbdulsPortfolio/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
     "static/media/iiitk_logo.png": "/AbdulsPortfolio/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/AbdulsPortfolio/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/AbdulsPortfolio/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
+    "static/media/python.jpg": "/AbdulsPortfolio/static/media/python.61919028fb2b7f016778.jpg",
     "static/media/manOnTable.svg": "/AbdulsPortfolio/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/AbdulsPortfolio/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "/AbdulsPortfolio/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
@@ -39,6 +41,7 @@
     "static/media/gcp_logo.png": "/AbdulsPortfolio/static/media/gcp_logo.63bb0649c9716d110b14.png",
     "static/media/fa-regular-400.eot": "/AbdulsPortfolio/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/AbdulsPortfolio/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
+    "static/media/ictc.png": "/AbdulsPortfolio/static/media/ictc.26c2d038665e3275a591.png",
     "static/media/legato_logo.png": "/AbdulsPortfolio/static/media/legato_logo.227e72c7979187840ba3.png",
     "static/media/developerActivity.svg": "/AbdulsPortfolio/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/AbdulsPortfolio/static/media/github_logo.15e591a7397b9ef45656.png",
@@ -50,6 +53,8 @@
     "static/media/pwa.png": "/AbdulsPortfolio/static/media/pwa.5107022416df1293dd12.png",
     "static/media/experience.svg": "/AbdulsPortfolio/static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/fa-regular-400.woff": "/AbdulsPortfolio/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
+    "static/media/newpythonlogo.png": "/AbdulsPortfolio/static/media/newpythonlogo.1fb7f55641c9ada32503.png",
+    "static/media/django.png": "/AbdulsPortfolio/static/media/django.1561b91d7b75f3ca2814.png",
     "static/media/fa-regular-400.woff2": "/AbdulsPortfolio/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/feelingProud.svg": "/AbdulsPortfolio/static/media/feelingProud.288e616ff8dc11bd4713.svg",
     "static/media/cloud_infrastructure.svg": "/AbdulsPortfolio/static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
@@ -62,10 +67,10 @@
     "static/media/talksCardBackAlt.svg": "/AbdulsPortfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/AbdulsPortfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.1053f1bb.css.map": "/AbdulsPortfolio/static/css/main.1053f1bb.css.map",
-    "main.3e8c3d57.js.map": "/AbdulsPortfolio/static/js/main.3e8c3d57.js.map"
+    "main.ece121a3.js.map": "/AbdulsPortfolio/static/js/main.ece121a3.js.map"
   },
   "entrypoints": [
     "static/css/main.1053f1bb.css",
-    "static/js/main.3e8c3d57.js"
+    "static/js/main.ece121a3.js"
   ]
 }
