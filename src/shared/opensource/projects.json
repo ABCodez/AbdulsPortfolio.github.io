@@ -11,6 +11,14 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos:opencv"
+        },
+        {
+          "name": "CSV",
+          "iconifyClass": "bi:filetype-csv"
         }
       ]
     },
@@ -69,6 +77,10 @@
         {
           "name": "Java",
           "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Android Studio",
+          "iconifyClass": "mdi:android-studio"
         }
       ]
     },
@@ -79,7 +91,16 @@
       "url": "https://github.com/ABCodez/MechatronicFlexArm",
       "description": null,
       "isFork": false,
-      "languages": []
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "bxl:c-plus-plus"
+        },
+        {
+          "name": "Arduino",
+          "iconifyClass": "logos:arduino"
+        }
+      ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzOTQ0OTY5MTc=",
@@ -92,6 +113,10 @@
         {
           "name": "Java",
           "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Android Studio",
+          "iconifyClass": "mdi:android-studio"
         }
       ]
     }
