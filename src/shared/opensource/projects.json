@@ -25,6 +25,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos:opencv"
         }
       ]
     },
