@@ -11,6 +11,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos:opencv"
         }
       ]
     },
@@ -25,6 +29,10 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos:opencv"
         }
       ]
     },
@@ -33,23 +41,36 @@
       "name": "PuzzledULHacks2021",
       "createdAt": "2021-08-15T07:06:39Z",
       "url": "https://github.com/ABCodez/PuzzledULHacks2021",
-      "description": "ULHacks2021 PuzzledApp repostitory",
+      "description": "ULHacks2021 PuzzledApp repository",
       "isFork": false,
       "languages": [
         {
           "name": "Java",
           "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Android Studio",
+          "iconifyClass": "mdi:android-studio"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnk0MDYwOTQyMzM=",
-      "name": "MechantronicFlexArm",
+      "name": "MechatronicFlexArm",
       "createdAt": "2021-09-13T18:58:02Z",
       "url": "https://github.com/ABCodez/MechantronicFlexArm",
       "description": null,
       "isFork": false,
-      "languages": []
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "bxl:c-plus-plus"
+        },
+        {
+          "name": "Arduino",
+          "iconifyClass": "logos:arduino"
+        }
+      ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzOTQ0OTY5MTc=",
@@ -62,6 +83,10 @@
         {
           "name": "Java",
           "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Android Studio",
+          "iconifyClass": "mdi:android-studio"
         }
       ]
     },

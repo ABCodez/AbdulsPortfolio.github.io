@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Abdul Basit's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "#",
   },
 };
 
@@ -24,8 +24,7 @@ const greeting = {
   nickname: "ABCodez",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+  resumeLink: "#",
   portfolio_repository: "https://github.com/ABCodez/abdulsPortfolio",
   githubProfile: "https://github.com/ABCodez",
 };
