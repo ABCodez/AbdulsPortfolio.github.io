@@ -146,31 +146,10 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
           },
         },
         {
@@ -181,10 +160,10 @@ const skills = {
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "Oracle VirtualBox",
+          fontAwesomeClassname: "simple-icons:virtualbox",
           style: {
-            color: "#47A248",
+            backgroundColor: "transparent",
           },
         },
         {
@@ -192,13 +171,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:docker",
           style: {
             color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
           },
         },
       ],
@@ -213,8 +185,15 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "Miro",
+          fontAwesomeClassname: "simple-icons:miro",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "Android Studio",
+          fontAwesomeClassname: "mdi:android-studio",
           style: {
             color: "#FF2BC2",
           },
@@ -227,15 +206,15 @@ const skills = {
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "Webflow",
+          fontAwesomeClassname: "logos:webflow",
           style: {
             color: "#FF7C00",
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Draw.io",
+          fontAwesomeClassname: "vscode-icons:file-type-drawio",
           style: {
             color: "#000000",
           },

@@ -11,10 +11,6 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
-          "name": "OpenCV",
-          "iconifyClass": "logos:opencv"
         }
       ]
     },
@@ -29,10 +25,32 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHNdRkA",
+      "name": "AbdulsPortfolio",
+      "createdAt": "2022-04-21T01:58:35Z",
+      "url": "https://github.com/ABCodez/AbdulsPortfolio",
+      "description": "My Professional Porfolio",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
         },
         {
-          "name": "OpenCV",
-          "iconifyClass": "logos:opencv"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
@@ -41,16 +59,12 @@
       "name": "PuzzledULHacks2021",
       "createdAt": "2021-08-15T07:06:39Z",
       "url": "https://github.com/ABCodez/PuzzledULHacks2021",
-      "description": "ULHacks2021 PuzzledApp repository",
+      "description": "ULHacks2021 PuzzledApp repostitory",
       "isFork": false,
       "languages": [
         {
           "name": "Java",
           "iconifyClass": "logos-java"
-        },
-        {
-          "name": "Android Studio",
-          "iconifyClass": "mdi:android-studio"
         }
       ]
     },
@@ -58,19 +72,10 @@
       "id": "MDEwOlJlcG9zaXRvcnk0MDYwOTQyMzM=",
       "name": "MechatronicFlexArm",
       "createdAt": "2021-09-13T18:58:02Z",
-      "url": "https://github.com/ABCodez/MechantronicFlexArm",
+      "url": "https://github.com/ABCodez/MechatronicFlexArm",
       "description": null,
       "isFork": false,
-      "languages": [
-        {
-          "name": "C++",
-          "iconifyClass": "bxl:c-plus-plus"
-        },
-        {
-          "name": "Arduino",
-          "iconifyClass": "logos:arduino"
-        }
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzOTQ0OTY5MTc=",
@@ -83,28 +88,6 @@
         {
           "name": "Java",
           "iconifyClass": "logos-java"
-        },
-        {
-          "name": "Android Studio",
-          "iconifyClass": "mdi:android-studio"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnk0MDU3OTAwNDM=",
-      "name": "GoogleHomepageFrontEnd",
-      "createdAt": "2021-09-13T00:58:15Z",
-      "url": "https://github.com/ABCodez/GoogleHomepageFrontEnd",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }
