@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "AbdulsPortfolio",
-  "homepage": "https://abcodez.github.io/AbdulsPortfolio/#/home",
+  "homepage": "https://abasit.me",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
