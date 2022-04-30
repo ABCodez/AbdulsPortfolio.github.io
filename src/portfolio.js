@@ -236,6 +236,22 @@ const competitiveSites = {
       },
       profileLink: "https://www.linkedin.com/in/abdulbasit27/details/skills/",
     },
+    {
+      siteName: "AWS",
+      iconifyClassname: "logos:aws",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "#",
+    },
+    {
+      siteName: "Hackerrank",
+      iconifyClassname: "fa6-brands:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/abdul_b0227?hr_r=1",
+    },
   ],
 };
 
@@ -259,6 +275,32 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    {
+      title: "AWS Certified Cloud Practitioner",
+      subtitle: "AWS",
+      logo_path: "AWSCloud.png",
+      certificate_link: "#",
+      alt_name: "AWS",
+      color_code: "#303B4B",
+    },
+    {
+      title: "AWS Cloud Practitioner Exam Simulator Course",
+      subtitle: "Neal Davis",
+      logo_path: "DCT.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1c1m4jDR8qIyo4YefrhCLSWIb89jwI66X/view?usp=sharing",
+      alt_name: "Digital Cloud Training",
+      color_code: "#F0FFFF",
+    },
+    {
+      title: "AWS Cloud Practitioner Course",
+      subtitle: "Neal Davis",
+      logo_path: "DCT.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1598WpmGd0KmDRiqY-AtZtdz1rhOyWyue/view?usp=sharing",
+      alt_name: "Digital Cloud Training",
+      color_code: "#F0FFFF",
+    },
     {
       title: "Python Django Dev to Deployment",
       subtitle: "Brad Traversy",
