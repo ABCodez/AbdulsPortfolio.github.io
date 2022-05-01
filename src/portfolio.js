@@ -242,7 +242,8 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "#",
+      profileLink:
+        "https://www.credly.com/badges/def6d382-f127-4445-a217-1e639c615b2a/public_url",
     },
     {
       siteName: "Hackerrank",
@@ -279,7 +280,8 @@ const certifications = {
       title: "AWS Certified Cloud Practitioner",
       subtitle: "AWS",
       logo_path: "AWSCloud.png",
-      certificate_link: "#",
+      certificate_link:
+        "https://drive.google.com/file/d/1G0tY5j1wkOk2KwOaFcCxrkGaPgDwAS6D/view?usp=sharing",
       alt_name: "AWS",
       color_code: "#303B4B",
     },
