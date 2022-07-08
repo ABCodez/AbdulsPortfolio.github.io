@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Abdul Basit  ",
   nickname: "ABCodez",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual that thrives on developing end-to-end solutions that generate sustainable and scalable social and technological systems to make an impact.",
   resumeLink:
     "https://drive.google.com/file/d/1i3VT_vIfRpQPQB0ae2fPFOB-bUt_SbGM/view?usp=sharing",
   portfolio_repository: "https://github.com/ABCodez/abdulsPortfolio",
@@ -67,9 +67,9 @@ const skills = {
       title: "Machine Learning & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Developing and researching models for various deeplearning use cases",
+        "⚡ Experience of working with Computer Vision projects",
+        "⚡ Strengthening Machine Learning Related Skills through Hackathons and personal projects!",
       ],
       softwareSkills: [
         {
@@ -100,9 +100,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end for clients using HTML, CSS, and JavaScript",
+        "⚡ Developing mobile applications using Android Studio, and Reactive Native",
+        "⚡ Creating application backend for clients using Django, Node, and PostgreSQL",
       ],
       softwareSkills: [
         {
@@ -140,10 +140,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Certified Cloud Practitioner through Amazon Web Services",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Great knowledge about Amazon's Cloud Infrastructure alongside best cloud architecture practices",
       ],
       softwareSkills: [
         {
@@ -260,16 +259,29 @@ const degrees = {
   degrees: [
     {
       title: "Wilfred Laurier University",
-      subtitle: "Honours Bachelors of Science in Computer Science (Year 2) ",
+      subtitle: "Honours Bachelors of Science in Computer Science",
       logo_path: "wlu.png",
-      alt_name: "IIITDM Kurnool",
+      alt_name: "wlu",
       duration: "2022 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like Data Structures, OOP, Discrete Mathematics, Computer Architecture, etc.",
+        "⚡ I have studied software engineering courses such as Data Structures, OOP, Discrete Mathematics, Computer Architecture, etc.",
         "⚡ Apart from this, I have done courses on Service Design, Cloud Computing and Full Stack Development.",
         "⚡ Coming soon ...",
       ],
       website_link: "https://www.wlu.ca/",
+    },
+    {
+      title: "Brock University",
+      subtitle: "Honours Bachelors of Computing & Business, COOP ",
+      logo_path: "brocku2-modified.png",
+      alt_name: "brock",
+      duration: "2020 - 2022",
+      descriptions: [
+        "⚡ I studied software engineering courses alongside business courses such as Accounting, Microeconomics, Accounting Law, etc.",
+        "⚡ Received the Brock Scholars Award (2021 & 2022), awarded to those with a GPA of 3.7+.",
+        "⚡ Coming soon ...",
+      ],
+      website_link: "https://brocku.ca/",
     },
   ],
 };
@@ -448,8 +460,7 @@ const contactPageData = {
   },
   blogSection: {
     title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    subtitle: "...",
     link: "#",
     avatar_image_path: "blogs_image.svg",
   },
