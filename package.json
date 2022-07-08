@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
-    "predeploy": "Cl= npm run build",
+    "predeploy": "Cl='' npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
