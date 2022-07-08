@@ -351,7 +351,9 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteering",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Working with evolving startups as a System Administrator allows me to expand my knowledge and experiences within the tech industry ." +
+    " I love involving my peers in hackathons, working on technical projects, and documenting my software engineering journey through github in order to reach those interested in " +
+    "pursuing a life in tech.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -363,9 +365,11 @@ const experience = {
           company_url: "https://www.civiconnect.ca/",
           logo_path: "civi.jpg",
           duration: "January 2022 - April 2022",
-          location: "Lincoln, Ontario",
+          location: "Beamsville, Ontario",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            " I led a team to interconnect businesses as part of the City of Lincoln's Tourism Plan by developing back-end functionalities for client websites with the use of AWS, Python, Django, SQL database, and SSL.\n" +
+            "I minimized the time to setup the Django framework for the System Admin department by 60% with the use of automated static folder setups, replacing run commands with user-friendly interface, etc.\n" +
+            "I worked with the Web Development Department Head to debug current Civiconnect website using Node.js, Heroku, and previous software testing abilities.\n",
           color: "#0879bf",
         },
       ],
