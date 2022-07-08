@@ -259,17 +259,17 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Brock University",
-      subtitle: "Bachelors of Computing and Business Honours (COOP)",
-      logo_path: "brocku2-modified.png",
+      title: "Wilfred Laurier University",
+      subtitle: "Honours Bachelors of Science in Computer Science (Year 2) ",
+      logo_path: "wlu.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2020 - Present",
+      duration: "2022 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied basic software engineering subjects like Data Structures, OOP, Discrete Mathematics, Computer Architecture, etc.",
+        "⚡ Apart from this, I have done courses on Service Design, Cloud Computing and Full Stack Development.",
+        "⚡ Coming soon ...",
       ],
-      website_link: "https://brocku.ca/",
+      website_link: "https://www.wlu.ca/",
     },
   ],
 };
