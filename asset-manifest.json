@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4863a2b3.css",
-    "main.js": "/static/js/main.88c92f09.js",
+    "main.js": "/static/js/main.148a98ec.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -28,12 +28,15 @@
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
     "static/media/DCT.png": "/static/media/DCT.26b2bf2c024ea32584cf.png",
+    "static/media/wlu.png": "/static/media/wlu.b78aafbda43cce1d4a79.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/magna.png": "/static/media/magna.df6a28f4215e6b893ef4.png",
     "static/media/python.jpg": "/static/media/python.61919028fb2b7f016778.jpg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/AWSCloud.png": "/static/media/AWSCloud.1d4d9fa250269a5b5067.png",
+    "static/media/wlu.jpg": "/static/media/wlu.2df7c310225148196dea.jpg",
+    "static/media/Laurier-Logo.jpg": "/static/media/Laurier-Logo.7c628598cee0351d0c5b.jpg",
     "static/media/ul.png": "/static/media/ul.4bfbb64a7b9cdb00ed2c.png",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
@@ -61,10 +64,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.4863a2b3.css.map": "/static/css/main.4863a2b3.css.map",
-    "main.88c92f09.js.map": "/static/js/main.88c92f09.js.map"
+    "main.148a98ec.js.map": "/static/js/main.148a98ec.js.map"
   },
   "entrypoints": [
     "static/css/main.4863a2b3.css",
-    "static/js/main.88c92f09.js"
+    "static/js/main.148a98ec.js"
   ]
 }
