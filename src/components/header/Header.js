@@ -87,7 +87,7 @@ class Header extends Component {
               </li>
               <li>
                 <NavLink
-                  to="/home"
+                  to="/opensource"
                   tag={Link}
                   activeStyle={{ fontWeight: "light" }}
                   style={{ color: theme.text }}

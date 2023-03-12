@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual that thrives on developing end-to-end solutions that generate sustainable and scalable social and technological systems to make an impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1i3VT_vIfRpQPQB0ae2fPFOB-bUt_SbGM/view?usp=sharing",
+    "https://drive.google.com/file/d/144VIWX1I2Kbl5Y9ra_6EQUlJLyTrBw6S/view?usp=sharing",
   portfolio_repository: "https://github.com/ABCodez/abdulsPortfolio",
   githubProfile: "https://github.com/ABCodez",
 };
@@ -101,7 +101,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end for clients using HTML, CSS, and JavaScript",
-        "⚡ Developing mobile applications using Android Studio, and Reactive Native",
+        "⚡ Developing mobile applications using Android Studio, and React Native",
         "⚡ Creating application backend for clients using Django, Node, and PostgreSQL",
       ],
       softwareSkills: [
@@ -130,6 +130,13 @@ const skills = {
         {
           skillName: "Django",
           fontAwesomeClassname: "logos:django",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "React",
+          fontAwesomeClassname: "logos:react",
           style: {
             backgroundColor: "transparent",
           },
